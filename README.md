@@ -47,8 +47,8 @@ Here are a few projects I've worked on:
 
 - **Email**: [salim9shrestha]
 - **LinkedIn**: [salimsshrestha]
-- **GitHub**: [slmshres]
-- **Portfolio Website**: [Link to your live portfolio if applicable]
+- **GitHub**: [salimshre]
+- **Portfolio Website**: [ssanu.com.np]
 
 Feel free to reach out to me for collaboration, job opportunities, or any questions you may have. I'm always open to new ideas and learning opportunities!
 
