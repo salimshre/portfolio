@@ -678,3 +678,94 @@ footer span a:hover{
         line-height: 38px;
     }
 }
+
+/* Social media icons styling */
+footer .social-icons {
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+footer .social-icons a {
+    color: #fff;
+    font-size: 24px;
+    transition: color 0.3s ease;
+}
+
+footer .social-icons a:hover {
+    color: crimson;
+}
+
+/* Existing footer text alignment fix */
+footer span {
+    display: block;
+}
+
+
+
+
+
+/*for blog */
+/* Blog Section Styling */
+.blog {
+    background: #f9f9f9;
+    font-family: 'Poppins', sans-serif;
+}
+
+.blog .title::after {
+    content: "Latest Articles";
+}
+
+.blog-content {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 30px;
+}
+
+.blog-post {
+    background: #fff;
+    padding: 25px;
+    border-radius: 8px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    transition: transform 0.3s ease;
+}
+
+.blog-post:hover {
+    transform: translateY(-5px);
+}
+
+.post-title {
+    color: #111;
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+
+.post-date {
+    color: #666;
+    font-size: 14px;
+    margin-bottom: 15px;
+}
+
+.post-excerpt {
+    color: #444;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+.read-more {
+    color: crimson;
+    font-weight: 500;
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    transition: color 0.3s ease;
+}
+
+.read-more:hover {
+    color: #a1102b;
+}
+
+.read-more i {
+    font-size: 14px;
+}
